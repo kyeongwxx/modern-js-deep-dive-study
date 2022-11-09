@@ -37,9 +37,10 @@ git push origin 브랜치 이름
 
 7. 작업을 진행한 브랜치 => modern-js-deep-dive-study/main로 pull request
 
-    pull request의 제목은 `이름: 챕터-챕터 제목` 형식으로 작성한다.
+    pull request의 제목은 `이름`으로 작성하고, 챕터 단위로 커밋한다.
 
-    `ex) 경우: 01-프로그래밍`
+    `pr - ex) 경우`
+    `commit - ex) 01-프로그래밍`
 
 ## 진행현황
 
