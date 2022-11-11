@@ -25,7 +25,7 @@ Node.js는 **EMCA SCRIPT** , Node.js HOST APIS
 * 프로젝트 규모가 커짐에 따라 React, Angular, Lodash 같은 프레임워크 또는 라이브러리를 도입하거나 Babel, Webpack, Eslint 등 여러가지 도구가 필요하다
   이때, **Node.js** 와 **npm** 이 필요하다.
 
-### npm(node package manager)
+## npm(node package manager)
 
 - 자바스크립트 패키지 매니저
 - Node.js에서 사용할 수 있는 모듈들을 패키지화해서 모아둔 저장소 역할과 패키지 설치 및 관리를 위한 CLI를 제공한다.
