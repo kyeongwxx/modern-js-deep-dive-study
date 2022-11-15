@@ -11,7 +11,7 @@ foo = true;
 console.log(typeof foo); // boolean
 
 foo = null;
-console.log(typeof foo); // object
+console.log(typeof foo); // object  
 
 foo = Symbol(); // 심벌
 console.log(typeof foo); // symbol
