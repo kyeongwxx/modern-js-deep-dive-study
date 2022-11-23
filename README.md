@@ -24,7 +24,7 @@ ex) git checkout -b kyeongwxx
 
 4. 정독한 내용을 각 챕터 폴더의 README.md 파일에 정리한다.
 
-5. 실습한 예제는 각 챕터 폴더의 하위 폴더 examples에 파일을 만들어 실습한다.
+5. 예제는 각 챕터 폴더의 하위 폴더 examples에 파일을 만들어 실습한다.
 
 6. 본인 원격 저장소에 add, commit, push를 진행한다.
 
