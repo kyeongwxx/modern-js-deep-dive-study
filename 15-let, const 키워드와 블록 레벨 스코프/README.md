@@ -49,10 +49,10 @@ console.log(person); // { name : "Kim" }
 
 -> 재할당은 불가능하나 프로퍼티 동적생성, 삭제, 변경을 통해 객체 변경이 가능하다
 
-> **결론**
-> `var` vs `let` vs `const`
+> **결론** > `var` vs `let` vs `const`
 
 - 변수 선언에는 기본적으로 const 사용
 - let은 재할당이 필요한 경우 한정해서 사용
 - ES6를 사용하면 var키워드 x
 - 변수의 스코프는 최대한 좁게!
+- test
